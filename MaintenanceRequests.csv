@@ -1,0 +1,44 @@
+﻿Request,Issue,Vehicle,Cause
+MR0123,engine oil leak,2F2DE48C8N4309374,"engine gasket broken, need replacement"
+MR0122,Flat tire.,2F2DE48C8N4309374,tire repair
+MR0121,Broken car door.,2F2DE48C8N4309374,replace door latch
+MR0120,oil leak,6FG09876890543568,replace valve
+MR0119,"Trunk won't stay closed. It locks at first, then flies open after car is in motion for a while. Cannot predict when it will open",45R6789456787658I,trunk lock replacement
+MR0118,Front passenger seat belt problem.,7G90G567894589047,replace defective retractors
+MR0117,leak in trunk,4T45BH845678H3493,crack in the rear light cluster
+MR0116,Overheating according to gauge and smoke rising from engine,7Y569K09856785657,out of coolant
+MR0115,suspected oil leak,6FG09876890543568,defective oil drain plug
+MR0114,Oil leak,2F2DE48C8N4309374,bad valve gasket
+MR0113,Flat tire. Rear passenger side. Big gouge; need to replace tire and check if other side also needs replacement.,2H93H88JK3848392,tire replacement
+MR0112,White smoke emitted from tailpipe. Large clouds when idling. Problem has worsened over past week,1F34GH4V83D345698,a faulty fuel pressure regulator
+MR0111,"Smoke out of the Engine
+",5TY7854698654389,fault in coolant system
+MR0110,White smoke from the engine,4T45BH845678H3493,faulty wire casings
+MR0109,the lock gets stuck.,1F4CG37S8P3628311,replace lock
+MR0108,Time to rotate tires!,7Y569K09856785656,tire rotation
+MR0107,Broken Horn. Does not function at all so it is a safety hazard.,1F4CG37S8P3628311,replace horn
+MR0105,Oil leak,1T4FV29A0F8557854,crankshaft defect
+MR0103,Oil leak suspected,1T4FV29A0F8557854,cracked gasket
+MR0099,Pinging sound while driving,5TY7854698654389,ignition issue
+MR0098,Acceleration failure.,1F4CG37S8P3628311,dirty fuel injectors
+MR0097,Replace the back light (right).,2H7XF64H8J6572134,replace the back light
+MR0095,Windshield wipes need replacement.,3FG896754U7456456,replace windshield wipes
+MR0087,Regular check-up. Please refill the fluids.,78T67893456789045,regular check-ups
+MR0086,"A regular check-up (lights, fluids, emission)",45GH5678923456789,regular check-ups
+MR0085,AC does not work.,2H7XF64H8J6572134,AC refrigerant leak
+MR0083,Replace the air filter,1F34GH4V83D345698,replace air filter
+MR0082,Oil is leaking.,2G3456899G2345678,defect engine gasket
+MR0080,Time for tire rotation,2L3ED45V3D4030403,tire rotation
+MR0079,"Engine leaking brown fluid when parked and when driving. Appears to be a steady drip all the time. Not much volume, but it could become a problem over time. ",2G3456899G2345678,degraded engine gasket
+MR0076,Flat tire - rear left. Looks like a patch job would work. ,7H3VS22D9U3849933,tire repair
+MR0061,Issue with ignition starter not working consistently on a daily basis.,3F4F587F84DJ73847,electrical connections faulty
+MR0060,The brakes are noisy.,2F2DE48C8N4309374,worn brake pads
+MR0058,Ignition starter is faulty,2L3ED45V3D4030403,Solenoid switch stiff
+MR0049,Driver reported fluid leak this AM. Please check,1F4CG37S8P3628311,transmission fluid leaking caused by pipe crack
+MR0048,Suspected fluid leak of some kind. ,2H7XF64H8J6572134,transmission fluid leaking caused by torque pump crack
+MR0044,"Problems accelerating. When driver steps on accelerator, a whirring sound but no acceleration. This is a safety issue when merging onto a highway, in particular. ",1F4CG37S8P3628311,faulty airflow sensor
+MR0043,Seat belt problem on driver's side. Problem is with latch.,2F2DE48C8N4309374,replace defective latch
+MR0042,Burning smell after driving for more than 15 minutes. Verified it's not from the oil leak.,2F2DE48C8N4309374,a burned-out electrical fuse
+MR0019,Smoke periodically emitted from engine after 20 minutes of driving,2H7XF64H8J6572134,burning radiator fluid
+MR0017,Burning smell after 20 minutes of driving,2H7XF64H8J6572134,motor oil leftover landed on the engine
+MR0001,Flat Tire,2F2DE48C8N4309374,tire repair
